@@ -1,4 +1,4 @@
-class  readme
+class  sample
 {
 
 public String getString(){
