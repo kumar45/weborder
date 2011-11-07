@@ -11,6 +11,6 @@ return "srinivas";
 		System.out.println("Hello World!");
 		readme me = new readme();
 		System.out.println("the name is"+me.getString());
-		System.out.println("Hello");
+
 	}
 }
